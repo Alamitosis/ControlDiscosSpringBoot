@@ -4,8 +4,6 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
-public class Discos {
-
 	/*
 CREATE TABLE DISCOS(
 ID NUMBER PRIMARY KEY,
@@ -80,4 +78,3 @@ PRECIO FLOAT
 		
 		
 	}
-}

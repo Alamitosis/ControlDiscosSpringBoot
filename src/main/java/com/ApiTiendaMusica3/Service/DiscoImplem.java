@@ -7,8 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.ApiTiendaMusica3.Service.DiscoService;
 import com.ApiTiendaMusica3.Dao.Dao;
-import com.ApiTiendaMusica3.Model.Discos;
-import com.ApiTiendaMusica3.Model.Discos.discos;
+import com.ApiTiendaMusica3.Model.discos;
 
 import org.springframework.transaction.annotation.Transactional;
 

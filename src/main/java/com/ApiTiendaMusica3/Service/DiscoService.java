@@ -2,8 +2,7 @@ package com.ApiTiendaMusica3.Service;
 
 import java.util.List;
 
-import com.ApiTiendaMusica3.Model.Discos;
-import com.ApiTiendaMusica3.Model.Discos.discos;
+import com.ApiTiendaMusica3.Model.discos;
 
 public interface DiscoService {
 
